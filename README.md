@@ -2,7 +2,13 @@
 
 <h3>how to reach me:</h3>
 
-[![Linkedin](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siradanai-namtep-3035b0269/)](www.linkedin.com/in/siradanai-namtep-3035b0269) [![GitHub](https://img.shields.io/badge/-GITHUB-black?style=flat-square&logo=GitHub&logoColor=white&link=https://www.linkedin.com/in/siradanai-namtep-3035b0269/)]([https://github.com/Thaiane](https://github.com/tyleeer))
+<a href="mailto:siradanai.nam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<span>/</span>
+<span>siradanai.nam@gmail.com</span>
+
+<a href="https://www.linkedin.com/in/siradanai-namtep-3035b0269"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+<a href="https://github.com/tyleeer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 <h3>about me:</h3>
 
